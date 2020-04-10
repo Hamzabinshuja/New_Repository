@@ -4,8 +4,6 @@ We will learn folowwing things
 *How to use SQL
 *BI course from Udemy
 *Data analytical course from COursera
-Optional things
-*MACHINE LEARNING
-*DEEP LEARNING 
+
 
 
